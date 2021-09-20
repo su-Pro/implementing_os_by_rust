@@ -1,2 +1,2 @@
-# imp_os_by_golang-in-action
+# implementing_os_by_golang
 how to implement an operating system by golang ?
